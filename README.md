@@ -34,6 +34,9 @@ function doServerRebuild(serverid, name){ if (confirm("Are you sure you want to 
 - Delete cache files from `templates_c` folder and that's it! Enjoy!
 > Reinstall button will bi show only when server stoped, also reinstall proccess only work when server is stoped!
 
+### Have problem?
+> If have problem with integration, i can finish this for you for small donation, just send me message on mail, facebook or here!
+
 ### License
 [GPL-3.0](https://github.com/CyberFX/SWIFT-Panel-Rebuild-Client-Servers/blob/master/LICENSE)
 
