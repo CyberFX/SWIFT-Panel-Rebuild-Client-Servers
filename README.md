@@ -1,7 +1,7 @@
 ## SWIFT Panel Rebuild/Reinstall Client Servers
 >An add-on for [swift game panel](http://www.swiftpanel.com/), clients can `RE-Install` their server!
 
-[![License](http://img.shields.io/badge/license-GNU-brightgreen.svg?style=flat-square)](https://github.com/CyberFX/SWIFT-Panel-Rebuild-Client-Servers/blob/master/LICENSE) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/CyberFX/10)
+[![License](http://img.shields.io/badge/license-GNU-brightgreen.svg?style=flat-square)](https://github.com/CyberFX/SWIFT-Panel-Rebuild-Client-Servers/blob/master/LICENSE) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3ZSS9NLHFRVSE&source=url)
 
 ### Description
 > Default [swift game panel](http://www.swiftpanel.com/) is very popular and interesting, however some of the options are lacking such as client server reinstallation.
@@ -43,4 +43,4 @@ function doServerRebuild(serverid, name){ if (confirm("Are you sure you want to 
 ### Donation
 If you appreciate my work and if this script helped you, treat me a coffee... ^_^
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/CyberFX/10)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3ZSS9NLHFRVSE&source=url)
