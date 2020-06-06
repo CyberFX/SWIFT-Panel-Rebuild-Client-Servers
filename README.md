@@ -43,4 +43,4 @@ function doServerRebuild(serverid, name){ if (confirm("Are you sure you want to 
 ### Donation
 If you appreciate my work and if this script helped you, treat me a coffee... ^_^
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3ZSS9NLHFRVSE&source=url)
+[![paypal](paypal.me/CyberFX995)
